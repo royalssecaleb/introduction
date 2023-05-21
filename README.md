@@ -1,8 +1,9 @@
 # Introduction
 Caleb Martin : Engineer ||  Senior Engineer |
+TX, U.S.A.
 Hard Skills : 
 
-FULLSTACK WEB DEVELOPMENT                  
+🥇FULLSTACK WEB DEVELOPMENT🥇                
 ✔HTML/CSS                                                    
 ✔JavaScript                                             
 ✔Backend Tech                                               
@@ -12,7 +13,7 @@ FULLSTACK WEB DEVELOPMENT
 ✔Responsive Web Designing Skills                     
 ✔Web Hosting         
   
-ARTIFICIAL INTELLIGENCE    
+🥇ARTIFICIAL INTELLIGENCE🥇
 ✔AI Engineering     
 ✔Software Prototyping   
 ✔Decision Analytics 
