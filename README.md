@@ -13,6 +13,7 @@ Hard Skills :
 ✔Web Hosting         
   
 🥇ARTIFICIAL INTELLIGENCE🥇
+
 ✔AI Engineering     
 ✔Software Prototyping   
 ✔Decision Analytics 
