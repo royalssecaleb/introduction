@@ -1,8 +1,6 @@
 # Introduction
-Caleb Martin : Engineer ||  Senior Engineer |
-TX, U.S.A.
+Caleb Martin : Engineer ||  Senior Engineer |  TX, U.S.A.
 Hard Skills : 
-
 🥇FULLSTACK WEB DEVELOPMENT🥇                
 ✔HTML/CSS                                                    
 ✔JavaScript                                             
@@ -22,12 +20,23 @@ Hard Skills :
 ✔Quantitative Analysis
 ✔Predictive Modeling   
 
+🥇TECHNICAL SKILLS🥇
+✔JavaScript   
+✔Python   
+✔ChatGPT 
+✔PHP 
+✔SQL  
+✔GitHub
+✔React
+✔Vue
+✔Laravel
+✔Django
+✔.NET
 
-
-         ===                 ==              ==            ==========       ====
-      =       =            =    =            ==            ==               ==
-    =                     =      =           ==            ==               ==  
-   =                     = ====== =          ==            ========|        ==   =
-    =                    =        =          ==            ==               ==      =
-      =       =          =        =          == ======     ==               ==      =
-         ===             =        =          == ======     ===========      ==   =
+         ===                 ==              ==            ==========       ====              ==          ==        ==
+      =       =            =    =            ==            ==               ==                ==  =    =  ==      =    =
+    =                     =      =           ==            ==               ==                ==    ==    ==     =      =
+   =                     = ====== =          ==            ========|        ==   =            ==          ==    =  ====  =
+    =                    =        =          ==            ==               ==      =         ==          ==    =        =
+      =       =          =        =          == ======     ==               ==      =         ==          ==    =        =
+         ===             =        =          == ======     ===========      ==   =            ==          ==    =        =     <>  <>  <>
