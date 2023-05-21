@@ -16,15 +16,15 @@ Hard Skills :
 
 ✔AI Engineering     
 ✔Software Prototyping   
-✔Decision Analytics 
-✔Data Science 
-✔Statistics  
+✔Decision Analytics
+✔Data Science
+✔Statistics
 ✔Quantitative Analysis
 ✔Predictive Modeling   
 
 🥇TECHNICAL SKILLS🥇
 ✔JavaScript   
-✔Python   
+✔Python
 ✔ChatGPT 
 ✔PHP 
 ✔SQL  
