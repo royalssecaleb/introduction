@@ -23,15 +23,14 @@ Hard Skills :
 ✔Predictive Modeling   
 
 🥇TECHNICAL SKILLS🥇
-✔JavaScript   
-✔Python
-✔ChatGPT 
-✔PHP 
-✔SQL  
-✔GitHub
-✔React
-✔Vue
-✔Laravel
-✔Django
-✔.NET
+✔ React
+✔ Vue
+✔ Angular
+✔ Spring
+✔ Hibernate
+✔ Node
+✔ Express
+✔ Ruby on Rails
+✔ AWS
+✔ SQL
 
